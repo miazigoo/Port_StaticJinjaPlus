@@ -3,7 +3,9 @@
 Инструкцию по использованию StaticJinjaPlus см. на [GitHub StaticJinjaPlus](https://github.com/MrDave/StaticJinjaPlus/tree/main)
 
 ## Как использовать:
+Для запуска вам понадобится **Docker**. Инструкции по его установке ищите на официальных сайтах:
 
+- [Get Started with Docker](https://www.docker.com/get-started/)
 ### Сборка на базе Ubuntu
 В директории `dock_file_ubunte` лежат файлы `Dockerfile` и `requirements` .
 Для сборки образа последней версии введите в терминале:
